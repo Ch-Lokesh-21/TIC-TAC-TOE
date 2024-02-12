@@ -55,7 +55,7 @@ h1
     font-size: 5vmin;
 }
 .result {
-    height: 100vmin;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
